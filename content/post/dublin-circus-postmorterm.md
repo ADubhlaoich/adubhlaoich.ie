@@ -6,7 +6,7 @@ date: 2018-07-13T18:23:11+01:00
 # Introduction
 During  2015 I joined the Dublin Institute of Technology to start my Computer Science degree. Given my existing involvement with the local community, I decided to join the DIT Circus Society, which has a long history in the college as well as the broader Dublin scene.
 
-The responsibilities of a circus society are the same as any other, with some extras. You set-up a stand during societies/freshers week andrefreshers week, you organise events, and also help to promote the college during open days or other public events.
+The responsibilities of a circus society are the same as any other, with some extras. You set-up a stand during societies/freshers week and refreshers week, you organise events, and also help to promote the college during open days or other public events.
 
 Where circus societies differ is that besides organising "regular" events (Such as collaborations with other societies to raise money/awareness for varying causes), they also organise trips to the annual circus conventions around the country and run a weekly meet-up which includes a brief workshop.
 
