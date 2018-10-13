@@ -2,3 +2,6 @@ baseURL = "https://www.adubhlaoich.ie"
 languageCode = "en-ie"
 title = "adubhlaoich.ie"
 theme = "onetwothree"
+
+[params]
+	navigation = ["about.md"]
