@@ -5,17 +5,17 @@ date: 2018-12-26T00:43:42Z
 
 If an organiser’s responsibility is to get people into classes, and a teacher’s responsibility is to get people from classes onto the dance floor, then it’s the DJ’s responsibility to keep them there.
 
-Like good design, good DJing is rarely noticed - but when it’s done badly, it’s felt immediately and viscerally. There’s a lot of different approaches on how to find music and play it, but no matter the approach the objective is the same.
+Like good design, good DJing is rarely noticed - but when it’s done badly, it’s felt immediately and viscerally. There’s plenty of approaches on how to find music and play it, but no matter the approach the objective is the same.
 
 **You play for the room.**
 
-Why this approach is important is obvious , but learning how to do it it isn’t as straightforward. Like learning to draw, the battle isn’t just in your hands - it starts with your eyes. You can have the fanciest tools and the largest of collections conceivable, and none of it matters if you use it all the wrong way.
+Why this approach is important is obvious , but learning how to do it isn’t as straightforward. Like learning to draw, the battle isn’t just in your hands - it starts with your eyes. You can have the fanciest tools and the largest of collections, and none of it matters if you use it all the wrong way.
 
 **Check the room regularly.**
 
-The more experience a DJ has, the less they will prepare their sets in advance, and the more time they will spend actively DJing. Actively refers to adjusting and building their set - even if the setlist has been planned in advance (Such as around a theme), much like dancing with a partner, you must learn to adjust for what you’re working with, not what you wish you were.
+The better the DJ, the less they will prepare their sets in advance, and the more time they will spend actively DJing. *Actively* refers to adjusting and building their set - even if the setlist has been planned in advance (Such as around a theme), much like dancing with a partner, you must learn to adjust for what you’re working with, not what you wish you were.
 
-By watching the room you can see what songs are working and what songs are not. If you social dance regularly, you will also be able to assess lots of different factors which you can adjust your set with. Sometimes a lack of information is information in itself.
+By watching the room you can see which songs are working and which are not. If you dance regularly, you will also be able to assess different factors which you can adjust your set with. Sometimes a lack of information is information itself.
 
 Some examples of things you can observe are:
 
@@ -25,7 +25,7 @@ Some examples of things you can observe are:
 
 Following these three observations, you can then ask yourself questions:
 
-* Do I know the room well enough to task risks in my set?
+* Do I know the room well enough to take risks in my set?
 * Can I work around or with what peoples’ style preferences are?
 * Is the space or lack thereof because of interest or stamina?
 
@@ -59,11 +59,11 @@ It’s much easier said than done, though - your DJing setup may not allow you t
 
 If this sounds like “You play for the room”, that’s because it’s supposed to. Ultimately, social dancing is meant to be a social activity. It’s not a competition or performance - people are there to enjoy dancing with each other.
 
-As the DJ, you are the person who can at any given time decide how many people in the room get to enjoy dancing. You don’t just control the music that is playing, you also control the silence in between. When you play for a jam, you’re choosing not to play for the people who don’t want to jam.
+As the DJ, you are the person who can decide how many people in the room get to enjoy dancing. You don’t just control the music that is playing, you also control the silence in between. When you play for a jam, you’re choosing not to play for the people who don’t want to jam.
 
 When you play the music for a solo routine, you are also choosing not to play for the people who can’t dance that routine. Every song you choose for your set has some measurable consequence to somebody in the room.
 
-It’s impossible to be a perfect DJ. Even if most of your set is amazing, someone still didn’t have a good night - and that might not be your fault. They might have been caught up in their head over some class material, or were too tired from work to really work up the energy needed to dance.
+It’s impossible to be a perfect DJ. Even if most of your set is amazing, someone still might have a bad night - and that might not be your fault. They could have been caught up in their head over some class material, or were too tired from work to really work up the energy needed to dance.
 
 A large part of reading the room is learning and understanding what you can and cannot control, and asking yourself where you can make improvements. A lot of people find jams exciting, but as a small politeness - you could ask if the person receiving a jam wanted one in the first place.
 
