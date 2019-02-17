@@ -1,7 +1,6 @@
 ---
 title: "The Anatomy of a Code of Conduct"
 date: 2019-02-17T23:20:50Z
-draft: true
 ---
 
 In 2017 I was part of a small team of people responsible for running [Frankie
