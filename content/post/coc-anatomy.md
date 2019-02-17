@@ -8,7 +8,7 @@ in Dublin](http://frankieindublin.com/), a three day dance event commemorating
 the 80th anniversary of Frankie Manning visting Dublin with the Cotton Club
 Revue.
 
-I took a break from organising events around that time, and also came to a
+I took a break from organising events after it, and came to a
 realisation that hadn't struck me before, despite organising events in
 different capacities for years. Your responsibility as an organiser is **not**
 booking venues, or teachers, or advertising, or answering emails.
