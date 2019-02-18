@@ -25,8 +25,10 @@ better informed about software accessibility on a surface level.
 It was only when I started my computer science degree that I was really exposed to
 the full scope of software accessibility, and a video I randomly came across
 ended up changing my perspective completely. It was [a talk by a developer
-called Seren Davies](#) who is also Dyslexic about the fact that over-reliance on
-[icon fonts](#) completely broke websites for her.
+called Seren Davies](https://www.youtube.com/watch?v=9xXBYcWgCHA) who is also 
+Dyslexic about the fact that over-reliance on 
+[icon fonts](https://alistapart.com/article/the-era-of-symbol-fonts) 
+completely broke websites for her.
 
 I had always considered accessibility an important part of my general knowledge, 
 but after comprehending the fact it applied to me I started to think of it more as 
@@ -51,11 +53,11 @@ deliberate, secondary effort for them to learn how to make accessible software
 outside of their academic experience in order to implement it at their
 workplace.
 
-During November 2018 I volunteered at [PyCon Ireland](#) and was shocked to discover
-there were less than 10 people with a computer science degree that were also
-uniquely qualified to teach Primary or Secondary level education, and saw the
-working draft for the Leaving Certificate computer science curriculum. It
-included basic website design and accessibility.
+During November 2018 I volunteered at [PyCon Ireland](https://python.ie/) and 
+was shocked to discover there were less than 10 people with a computer science 
+degree that were also uniquely qualified to teach Primary or Secondary level 
+education, and saw the working draft for the Leaving Certificate computer science 
+curriculum. It included basic website design and accessibility.
 
 This was greatly reassuring, because I'm certain the longer you take to try to
 teach someone a core concept, the less likely they will have the bandwidth to
@@ -65,7 +67,8 @@ from class one everyone is dancing to the same music.
 
 There's an analogy in almost all skilled creative work where this collision
 between culture and educational concerns takes place. But I think we could be
-doing more - trying to read the [Web Content Accessibility Guidelines](#) is a
+doing more - trying to read the 
+[Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG20/) is a
 herculean feat which requires you to break down all of the jargon contained
 within before figuring out exactly where it applies and how to do so.
 
