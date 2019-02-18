@@ -26,7 +26,7 @@ In the end I dropped the project as I was blocked by my own lack of technical sk
 
 I wanted to see if I could make people feel what my Dyslexia feels like.
 
-The Christmas of my 6th year of Secondary School, months before I was supposed to do the Leaving Certificate, I went through a psychological assessment after which I was told that I had Dyslexia, and the symptoms of Dysgraphia, which is a writing-specific form of Dyspraxia. You wouldn’t expect to leave any assessment happy to be told there was something “wrong” with you, but I was. And “wrong” isn’t really the right nomenclature either; Dyslexia is considered a learning disability, but for me it’s just who I am.
+The Christmas of my 6th year of Secondary School, months before I was supposed to do the Leaving Certificate, I went through a psychological assessment after which I was told that I had Dyslexia, and the symptoms of Dysgraphia, which is a writing-specific form of Dyspraxia. You wouldn’t expect to leave any assessment happy to be told there was something “wrong” with you, but I was. And “wrong” isn’t really the right nomenclature either; Dyslexia is considered a learning disability, but for me it’s who I am.
 
 I couldn’t and still can’t fully comprehend what the differences are. You’re tested in different ways to measure your cognitive, verbal, mathematical and writing skills, and the combination of results is used to compare you to the general population. It’s like being told that although you are breathing, you are breathing in a way other people do not. You have no frame of reference for how it’s supposed to feel otherwise, so you have no way of understanding how you think and process information compared to how others do.
 
