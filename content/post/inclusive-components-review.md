@@ -1,7 +1,6 @@
 ---
 title: "Inclusive Components Review"
 date: 2020-02-19T17:14:54Z
-draft: true
 ---
 
 In early December, I found out Smashing Magazine was [offering copies of a
@@ -15,8 +14,9 @@ excuse to work on my JavaScript - so I sent a message requesting a copy.
 To make a long review short, this is an amazing book, and I recommend you get
 it no matter what level of experience you might have. I read through it from
 the perspective of someone who tries to code with accessibility in mind, but is
-largely self taught. The author, Heydon Pickering, completely changed my
-perspective on how most common interactive elements on website should be coded.
+largely self taught. The author, [Heydon Pickering](https://heydonworks.com/),
+completely changed my perspective on how most common interactive elements on 
+websites should be coded.
 
 For a multitude of reasons I've always felt allergic to JavaScript due to my
 split time doing front and back-end development - I've tried to do as much as
