@@ -40,7 +40,7 @@ Some of this probably sounds contradictory, but it's not: write everything as
 simply as possible in plain English, and cover only what is absolutely
 necessary without compromising on the parts that are important.
 
-[This is the code](https://github.com/ADubhlaoich/dance-code-of-conduct) that
+[This is the code](https://adubhlaoich.github.io/dance-code-of-conduct/) that
 came out of the effort. It's hosted on github, so you can browse through the
 commit history to see how it has changed over time. It is designed to be easy
 to follow, but also to adopt - as part of my research, I saw some very specific

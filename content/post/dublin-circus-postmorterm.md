@@ -37,7 +37,7 @@ The biggest concerns  were:
 * The training space
 * The fire show
 * The gala show
-* Therenegade show
+* The renegade show
 * The intersoc games
 
 DIT was inherently responsible for the training space, as it had been Larkin Hall for years, which held a relationship with DIT for use not only by the circus society but also the dance society and the various sports clubs. The fire show was facilitated by Trinity College, who held fire shows most frequently and were the point of contact for the performance space (Trinity Front Square).
