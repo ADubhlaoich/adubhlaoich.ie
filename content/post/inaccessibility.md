@@ -39,7 +39,7 @@ more restrictive disabilities?
 Like security, I realised the obstacle to overcome is the fact that
 accessibility tends to be framed as a separate concern to learn instead of an
 implicit part of overall design. You could reduce it to *"Being mindful of who is 
-using your software, how they are interacting with it, and desiging for them".*
+using your software, how they are interacting with it, and designing for them".*
 
 Which could apply to designing anything at all - the caveat being recognising
 that some of your users will have disabilities, which is where universal design
