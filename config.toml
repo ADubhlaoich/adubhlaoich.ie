@@ -1,0 +1,30 @@
+baseURL = "http://example.org/"
+languageCode = "en-IE"
+title = "ADubhlaoich"
+
+[permalinks]
+    blog = "/:filename/"
+
+[menu]
+    [[menu.main]]
+        name = "Home"
+        pre = "home"
+        url = "/"
+        weight = 1
+    [[menu.main]]
+        name = "Writing"
+        pre = "edit"
+        url = "/blog/"
+        weight = 2
+    [[menu.main]]
+        name = "Topics"
+        pre = "tag"
+        url = "/tags/"
+        weight = 3
+
+[params]
+    dateFormat = "Jan 2, 2006"
+    homeText = "Watch this space!"
+
+[taxonomies]
+    tag = "tags"
