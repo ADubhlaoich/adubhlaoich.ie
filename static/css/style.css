@@ -3,9 +3,9 @@ body {
 }
 
 .container {
-      max-width: 80ch;
-        padding: 2ch;
-          margin: auto;
+    max-width: 80ch;
+    padding: 2ch;
+    margin: auto;
 }
 
 a {
@@ -16,12 +16,4 @@ a {
 a:hover {
     color: rgb(77, 238, 238);
     text-decoration: underline;
-}
-
-.highlight {
-    color: red;
-}
-
-.tags {
-    text-size: 8px;
 }
