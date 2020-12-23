@@ -24,7 +24,7 @@ title = "ADubhlaoich"
 
 [params]
     dateFormat = "Jan 2, 2006"
-    homeText = "Watch this space!"
+    homeText = "Test commit push. Has the navigation bar moved?"
 
 [taxonomies]
     tag = "tags"
