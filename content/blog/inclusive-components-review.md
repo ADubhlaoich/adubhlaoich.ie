@@ -1,7 +1,7 @@
 ---
 title: "Inclusive Components Review"
 date: 2020-02-19T17:14:54Z
-tags: ["Accessibility"]
+topics: ["Accessibility"]
 ---
 
 In early December, I found out Smashing Magazine was [offering copies of a

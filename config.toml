@@ -18,13 +18,13 @@ title = "ADubhlaoich"
         weight = 2
     [[menu.main]]
         name = "Topics"
-        pre = "tag"
-        url = "/tags/"
+        pre = "topic"
+        url = "/topics/"
         weight = 3
 
 [params]
-    dateFormat = "Jan 2, 2006"
+    dateFormat = "January 2, 2006"
     homeText = "Test commit push. Has the navigation bar moved?"
 
 [taxonomies]
-    tag = "tags"
+    topic = "topics"

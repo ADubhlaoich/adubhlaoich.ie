@@ -1,7 +1,7 @@
 ---
 title: "Why Use a Password Manager, and Which?"
 date: 2020-05-16T17:34:08+01:00
-tags: ["Security", "Tools"]
+topics: ["Security", "Tools"]
 ---
 
 I'm incredibly privileged to be able to say that I have a huge and varied group of friends, all of whom have different backgrounds. Many of them are Irish, more of them are not, and most of them all work on different industries or fields.

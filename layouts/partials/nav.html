@@ -1,7 +1,6 @@
 <nav>
     {{ range .Site.Menus.main }}
-        {{ $icon := printf "<i data-feather=\"%s\"></i>" .Pre | safeHTML }}
         {{ $text := .Name }}
-        {{ $icon }} <a href="{{ .URL }}">{{ $text }}</a>
+        <a href="{{ .URL }}">{{ $text }}</a>
     {{ end }}
 </nav>

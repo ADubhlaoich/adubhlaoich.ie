@@ -1,8 +1,7 @@
 ---
 title: "Inaccessibility: An Education Challenge"
 date: 2019-02-18T16:39:17Z
-draft: false
-tags: ["Accessibility"]
+topics: ["Accessibility"]
 ---
 
 Website development was the first kind of programming I'd ever tried - I think

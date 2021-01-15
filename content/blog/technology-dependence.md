@@ -1,8 +1,7 @@
 ---
 title: "Technology Dependence"
 date: 2018-06-13T14:02:27+01:00
-draft: false
-tags: ["Technology"]
+topics: ["Technology"]
 ---
 
 Throughout childhood, I struggled a lot with writing. As is the norm, I was “taught” cursive through handwriting books that required you to trace over existing lines, and  although I was comfortable enough participating in class discussions, I struggled quite a lot when it came to actual tests due to the fact I had to choose between clarity or completeness when completing clerical work.

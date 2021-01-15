@@ -1,8 +1,7 @@
 ---
 title: "Remembering People"
 date: 2018-06-10T00:07:22+01:00
-draft: false
-tags: ["Personal"]
+topics: ["Personal"]
 ---
 
 When I came out of depression at age eighteen, I felt like a completely different person. It was like I’d waken up for the first time. The world seemed so vivid and deliberate, where before it was a clouded movie I couldn’t really keep up with. That’s how I remember experiencing life, as though I was sitting in a film theatre watching the world happen through my eyes while having absolutely no control over what was going to occur next.
