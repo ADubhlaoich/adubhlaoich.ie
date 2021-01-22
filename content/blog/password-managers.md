@@ -53,13 +53,13 @@ Outside of trusting a second party to keep my information secure (And back it up
 
 ### Pricing
 
-I use open source software. Why pay for something if I don't strictly have to?
+I use a lot of open source software; as a result I haven't strictly needed to pay for many things in my daily toolchain. There is a certain peace of mind to paid options, however, and if you are able, you should still donate to open source projects you like - or even advocate for the company you work for to sponsor them. Without the support of corporate sponsors, many projects and events would not be able to continue!
 
 ## My Conclusion
 
 [KeePassXC](https://keepassxc.org/).
 
-It's [never been audited](https://keepassxc.org/docs/#faq-audit), but I understand why and have accepted the risk outweights the benefit. It has browser addons and apps for every platform I've tried to use it on, and the user interface is intuitive. As it's open source, it has also cost me no money to use, and the fact I control the database means I can store and back it up wherever, whenever and however I like.
+It's [never been audited](https://keepassxc.org/docs/#faq-audit), but I understand why and have accepted the risk outweights the benefit. It has browser addons and apps for every platform I've tried to use it on, and the user interface is intuitive. As it's open source, cost was not an initial barrier to entry, and the fact I control the database means I can store and back it up wherever, whenever and however I like.
 
 The amount of time I'm willing to manage my workflow around KeePassXC, however, reflects the amount of control I want to be able to exert over my password manager.
 
