@@ -1,0 +1,2 @@
+# ADubhlaoich
+Greetings. I’m Alan Dooley; as Gaélige Ailín O’Dubhlaoich is ainm dom; hence my online pseudonym, “ADubhlaoich”. My professional areas of interest are software accessibility, information security and technical writing.
