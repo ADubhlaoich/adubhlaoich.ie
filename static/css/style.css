@@ -1,5 +1,10 @@
 body {
-    font-family: "Fira Code", monospace;
+    font-family: 'Source Serif Pro', serif;
+    
+}
+
+h1, h2 {
+    font-family: 'Libre Franklin', sans-serif;
 }
 
 .container {
@@ -9,11 +14,10 @@ body {
 }
 
 a {
-    color: rgb(10, 75, 75);
+    color:rgb(128, 0, 128);
     text-decoration: none;
 }
 
 a:hover {
-    color: rgb(77, 238, 238);
-    text-decoration: underline;
+    color:rgb(201, 0, 201);
 }
