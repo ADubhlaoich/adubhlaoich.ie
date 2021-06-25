@@ -1,6 +1,6 @@
 <nav>
     {{ range .Site.Menus.main }}
-        {{ $text := .Name }}
-        <a href="{{ .URL }}">{{ $text }}</a>
+    {{ $text := .Name }}
+    <a href="{{ .URL }}">{{ $text }}</a>
     {{ end }}
 </nav>

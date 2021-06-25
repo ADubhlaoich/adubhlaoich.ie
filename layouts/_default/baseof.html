@@ -1,13 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 {{ partial "head.html" . }}
+
 <body>
+    <a id="top" href="#heading">Skip to main content</a>
     <div class="container">
-    {{ partial "nav.html" . }}
+        {{ partial "nav.html" . }}
         <main>
             {{ block "main" .}} {{ end }}
         </main>
+        <a href="#top">Back to top</a>
     </div>
     {{ partial "script.html" . }}
 </body>
+
 </html>

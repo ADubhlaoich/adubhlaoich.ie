@@ -7,12 +7,6 @@ h1, h2 {
     font-family: 'Libre Franklin', sans-serif;
 }
 
-.container {
-    max-width: 80ch;
-    padding: 2ch;
-    margin: auto;
-}
-
 a {
     color:rgb(128, 0, 128);
     text-decoration: none;
@@ -20,4 +14,11 @@ a {
 
 a:hover {
     color:rgb(201, 0, 201);
+}
+
+
+.container {
+    max-width: 80ch;
+    padding: 2ch;
+    margin: auto;
 }
