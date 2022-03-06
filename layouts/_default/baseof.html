@@ -3,13 +3,17 @@
 {{ partial "head.html" . }}
 
 <body>
-    <a id="skip" href="#heading">Skip to main content</a>
+    <aside>
+        <a id="skip" href="#heading">Skip to main content</a>
+    </aside>
     <div class="container">
         {{ partial "nav.html" . }}
         <main>
             {{ block "main" .}} {{ end }}
         </main>
-        <a href="#heading">Back to top</a>
+        <footer>
+            <a href="#heading">Back to top</a>
+        </footer>
     </div>
     {{ partial "script.html" . }}
 </body>
