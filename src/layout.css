@@ -22,10 +22,6 @@ html, body, div, header, nav, main, footer {
     max-inline-size: none;
 }
 
-ul {
-    list-style: none;
-}
-
 .box {
     padding: var(--s-1);
     outline: 0.125rem solid transparent;
