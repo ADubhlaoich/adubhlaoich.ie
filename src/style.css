@@ -1,3 +1,12 @@
+:root {
+    font-family: 'Lora', serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Archivo Black', sans-serif;
+    text-transform: uppercase;
+}
+
 a {
     text-decoration: none;
 }
