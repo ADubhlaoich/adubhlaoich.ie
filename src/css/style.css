@@ -1,10 +1,13 @@
 :root {
-    font-family: 'Lora', serif;
+    font-family: "Lora", serif;
 }
 
-h1, h2, h3 {
-    font-family: 'Archivo Black', sans-serif;
+h1,
+h2,
+h3 {
+    font-family: "Archivo Black", sans-serif;
     text-transform: uppercase;
+    line-height: 1.1;
 }
 
 a {

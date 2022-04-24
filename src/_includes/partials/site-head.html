@@ -1,16 +1,15 @@
+<div class="center">
+    <div class="box">
 
-    <div class="center">
-        <div class="box">
+        <header>
+            <nav>
+                <ul class="switcher">
+                    {% for item in navigation.items %}
+                    <li><a href="{{item.url}}" {{ helpers.getLinkActiveState(item.url, page.url) |
+                            safe}}>{{item.text}}</a></li>
+                    {% endfor %}
+                </ul>
+            </nav>
 
-            <header>
-                <nav>
-                    <ul class="switcher">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Writing</a></li>
-                        <li><a href="#">Projects</a></li>
-                    </ul>
-                </nav>
-
-                <h1>Somewhat Verbose</h1>
-            </header>
+            <h1>Somewhat Verbose</h1>
+        </header>
