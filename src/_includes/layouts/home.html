@@ -3,29 +3,8 @@
 
 {{ content | safe }}
 
-<h2 class="center">Writing</h2>
+{% include "partials/featured-writing.html" %}
 
-<div class="switcher">
-    <div>
-        <strong>Title</strong>
-        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sodales vivamus malesuada mauris mus hac magna,
-            commodo facilisis maecenas magnis dis fermentum sollicitudin dictum aenean vestibulum massa hendrerit
-            aptent.</p>
-    </div>
-
-    <div>
-        <strong>Title</strong>
-        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sodales vivamus malesuada mauris mus hac magna,
-            commodo facilisis maecenas magnis dis fermentum sollicitudin dictum aenean vestibulum massa hendrerit
-            aptent.</p>
-    </div>
-
-    <div>
-        <strong>Title</strong>
-        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sodales vivamus malesuada mauris mus hac magna,
-            commodo facilisis maecenas magnis dis fermentum sollicitudin dictum aenean vestibulum massa hendrerit
-            aptent.</p>
-    </div>
-</div>
+{% include "partials/featured-projects.html" %}
 
 {% endblock %}

@@ -1,6 +1,16 @@
 module.exports = function(eleventyConfig) {
-    eleventyConfig.addPassthroughCopy("src/css");
+    const sortByDisplayOrder = require("./src/utils/sort-by-display-order.js")
+    eleventyConfig.addPassthroughCopy("src/css")
     eleventyConfig.addWatchTarget("src/css")
+    eleventyConfig.addCollection('projects', collection => {
+        return sortByDisplayOrder(collection.getFilteredByGlob('/src/projects/*.md'))
+    })
+    eleventyConfig.addCollection('featuredProjects', collection => {
+        return sortByDisplayOrder(collection.getFilteredByGlob('/src/projects/*.md')).filter(x => x.data.featured)
+    })
+    eleventyConfig.addCollection('writing', collection => {
+        return [...collection.getFilteredByGlob('/src/writing/*.md')].reverse()
+    })
     return {
         markdownTemplateEngine: 'njk',
         dataTemplateEngine: 'njk',
