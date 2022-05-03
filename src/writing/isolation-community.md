@@ -2,6 +2,8 @@
 title: "Isolation, Identity & Community"
 date: 2021-06-24T00:00:37+01:00
 topics: ["Personal"]
+featured: true
+intro: "Like everyone else, I'm fighting a lifelong battle with myself. Since I started using the internet, I've maintained a few different blogs. The intent was always to document things I was learning, but my mental image was of discrete 'projects' related to technology."
 ---
 
 Like everyone else, I'm fighting a lifelong battle with myself. Since I started using the internet, I've maintained a few different blogs. The intent was always to document things I was learning, but my mental image was of discrete 'projects' related to technology. Instead, I found and still find myself writing about the things I've learned about myself. 

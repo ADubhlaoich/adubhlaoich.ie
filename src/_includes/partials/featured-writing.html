@@ -1,24 +1,13 @@
 <h2 class="center">Writing</h2>
 
 <div class="switcher">
+    {% for item in collections.featuredWriting %}
     <div>
-        <strong>Title</strong>
-        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sodales vivamus malesuada mauris mus hac magna,
-            commodo facilisis maecenas magnis dis fermentum sollicitudin dictum aenean vestibulum massa hendrerit
-            aptent.</p>
-    </div>
 
-    <div>
-        <strong>Title</strong>
-        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sodales vivamus malesuada mauris mus hac magna,
-            commodo facilisis maecenas magnis dis fermentum sollicitudin dictum aenean vestibulum massa hendrerit
-            aptent.</p>
+        <a href="{{item.url}}">
+            <h3>{{item.data.title}}</h3>
+        </a>
+        <p>{{item.data.intro}}</p>
     </div>
-
-    <div>
-        <strong>Title</strong>
-        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sodales vivamus malesuada mauris mus hac magna,
-            commodo facilisis maecenas magnis dis fermentum sollicitudin dictum aenean vestibulum massa hendrerit
-            aptent.</p>
-    </div>
+    {% endfor %}
 </div>

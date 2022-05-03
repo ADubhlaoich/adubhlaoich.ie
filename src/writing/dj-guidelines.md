@@ -2,6 +2,8 @@
 title: "Swing DJ Guidelines"
 date: 2018-12-26T00:43:42Z
 topics: ["Dancing"]
+intro: "If an organiser’s responsibility is to get people into classes, and a teacher’s responsibility is to get people from classes onto the dance floor, then it’s the DJ’s responsibility to keep them there."
+featured: true
 ---
 
 If an organiser’s responsibility is to get people into classes, and a teacher’s responsibility is to get people from classes onto the dance floor, then it’s the DJ’s responsibility to keep them there.

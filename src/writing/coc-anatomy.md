@@ -2,6 +2,9 @@
 title: "The Anatomy of a Code of Conduct"
 date: 2019-02-17T23:20:50Z
 topics: ["Dancing"]
+featured: true
+intro: "In 2017 I was part of a small team of people responsible for running Frankie in Dublin, a three day dance event commemorating the 80th anniversary of Frankie Manning visting Dublin with the Cotton Club
+Revue."
 ---
 
 In 2017 I was part of a small team of people responsible for running [Frankie
