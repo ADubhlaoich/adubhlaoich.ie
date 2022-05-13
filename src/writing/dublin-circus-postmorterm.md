@@ -1,5 +1,4 @@
 ---
-layout: 'layouts/writing'
 title: "Dublin Circus Festival 2016 Postmortem"
 date: 2018-07-13T18:23:11+01:00
 topics: ["Events"]

@@ -1,5 +1,4 @@
 ---
-layout: 'layouts/writing'
 title: "Isolation, Identity & Community"
 date: 2021-06-24T00:00:37+01:00
 topics: ["Personal"]

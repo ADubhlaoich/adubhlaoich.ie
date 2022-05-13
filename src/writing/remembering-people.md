@@ -1,5 +1,4 @@
 ---
-layout: 'layouts/writing'
 title: "Remembering People"
 date: 2018-06-10T00:07:22+01:00
 topics: ["Personal"]

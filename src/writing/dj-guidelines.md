@@ -1,5 +1,4 @@
 ---
-layout: 'layouts/writing'
 title: "Swing DJ Guidelines"
 date: 2018-12-26T00:43:42Z
 topics: ["Dancing"]
