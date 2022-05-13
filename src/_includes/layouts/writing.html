@@ -1,8 +1,12 @@
 {% extends "layouts/base.html" %}
+
+{% set writingListItems = pagination.items %}
+
 {% block content %}
 
-<h2>{{ title }} - {{ page.date | asPostDate }}</h2>
+<h2>{{ title }}</h2>
+{{ content | safe }}
 <article class="content">
-    {{ content | safe }}
+    {% include "partials/writing-list.html" %}
 </article>
 {% endblock %}

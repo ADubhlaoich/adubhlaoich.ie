@@ -1,7 +1,7 @@
 const { DateTime } = require("luxon")
+const sortByDisplayOrder = require("./src/utils/sort-by-display-order.js")
 
 module.exports = function(eleventyConfig) {
-    const sortByDisplayOrder = require("./src/utils/sort-by-display-order.js")
     eleventyConfig.addPassthroughCopy("./src/css")
     // eleventyConfig.addWatchTarget("./src/css")
     eleventyConfig.addCollection('projects', collection => {
