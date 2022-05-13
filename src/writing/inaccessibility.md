@@ -1,4 +1,5 @@
 ---
+layout: 'layouts/writing'
 title: "Inaccessibility: An Education Challenge"
 date: 2019-02-18T16:39:17Z
 topics: ["Accessibility"]

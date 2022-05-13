@@ -1,4 +1,5 @@
 ---
+layout: 'layouts/writing'
 title: "Technology Dependence"
 date: 2018-06-13T14:02:27+01:00
 topics: ["Technology"]

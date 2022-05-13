@@ -1,4 +1,5 @@
 ---
+layout: 'layouts/writing'
 title: "Why Use a Password Manager, and Which?"
 date: 2020-05-16T17:34:08+01:00
 topics: ["Security", "Tools"]
