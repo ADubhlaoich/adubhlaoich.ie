@@ -3,10 +3,7 @@ const { DateTime } = require("luxon")
 module.exports = function(eleventyConfig) {
     const sortByDisplayOrder = require("./src/utils/sort-by-display-order.js")
     eleventyConfig.addPassthroughCopy("./src/css")
-    eleventyConfig.addWatchTarget("./src/css")
-    eleventyConfig.addFilter('asPostDate', (dateObj) => {
-        return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED)
-    })
+    // eleventyConfig.addWatchTarget("./src/css")
     eleventyConfig.addCollection('projects', collection => {
         return sortByDisplayOrder(collection.getFilteredByGlob('/src/projects/*.md'))
     })
@@ -19,7 +16,9 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addCollection('featuredWriting', collection => {
         return sortByDisplayOrder(collection.getFilteredByGlob('./src/writing/*.md')).filter(x => x.data.featured)
     })
-
+    eleventyConfig.addFilter('asPostDate', (dateObj) => {
+        return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED)
+    })
     return {
         markdownTemplateEngine: 'njk',
         dataTemplateEngine: 'njk',
