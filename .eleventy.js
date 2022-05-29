@@ -17,7 +17,7 @@ module.exports = function(eleventyConfig) {
         return sortByDisplayOrder(collection.getFilteredByGlob('./src/writing/*.md')).filter(x => x.data.featured)
     })
     eleventyConfig.addFilter('asPostDate', (dateObj) => {
-        return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED)
+        return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_FULL)
     })
     return {
         markdownTemplateEngine: 'njk',

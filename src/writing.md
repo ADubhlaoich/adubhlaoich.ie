@@ -6,4 +6,6 @@ pagination:
     size: 10
 ---
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit sodales vivamus malesuada mauris mus hac magna, commodo facilisis maecenas magnis dis fermentum sollicitudin dictum aenean vestibulum massa hendrerit aptent. Per nostra scelerisque bibendum cubilia ultricies vehicula senectus, consequat dapibus diam tristique dis.
+The following list of titles are links to the various pieces I have written and published on this website thus far. Most of them are memoirs or perspectives on how to run events; the actual "technical" content I will have likely mirrored on [dev.to](https://dev.to/adubhlaoich). 
+
+If there's something you'd like to read my perspective on, don't hesitate to reach out to me with a suggestion.
