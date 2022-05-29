@@ -1,0 +1,13 @@
+<h2 class="center">Writing</h2>
+
+<div class="switcher">
+    {% for item in collections.featuredWriting %}
+    <div>
+
+        <a href="{{item.url}}">
+            <h3>{{item.data.title}}</h3>
+        </a>
+        <p>{{item.data.intro}}</p>
+    </div>
+    {% endfor %}
+</div>

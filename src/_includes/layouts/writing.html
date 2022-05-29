@@ -1,0 +1,12 @@
+{% extends "layouts/base.html" %}
+
+{% set writingListItems = pagination.items %}
+
+{% block content %}
+
+<h2>{{ title }}</h2>
+{{ content | safe }}
+<article class="content">
+    {% include "partials/writing-list.html" %}
+</article>
+{% endblock %}

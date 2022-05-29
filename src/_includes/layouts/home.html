@@ -1,0 +1,20 @@
+{% extends "layouts/base.html" %}
+{% block content %}
+
+{{ content | safe }}
+
+<figure class="quote">
+    <blockquote>I am offering these words for your entertainment, and to entertain myself. I am not trying to improve
+        you,
+        and I really do not know how I would improve you. It would be imprudent for me to recommend any improvements,
+        because one never knows how these things may turn out - and as they say, be careful of what you wish for,
+        because
+        you may get it.</blockquote>
+    <figcaption>&mdash; Alan Watts, <cite>Still the Mind</cite></figcaption>
+</figure>
+
+{% include "partials/featured-writing.html" %}
+
+<!-- {% include "partials/featured-projects.html" %} -->
+
+{% endblock %}

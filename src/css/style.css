@@ -1,0 +1,29 @@
+:root {
+    font-family: "Lora", serif;
+}
+
+h1,
+h2,
+h3 {
+    font-family: "Archivo Black", sans-serif;
+    text-transform: uppercase;
+    line-height: 1.1;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ol {
+    list-style: none;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+    text-transform: uppercase;
+}

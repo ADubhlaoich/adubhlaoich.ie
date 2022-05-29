@@ -1,0 +1,9 @@
+{% extends "layouts/base.html" %}
+{% block content %}
+
+<h2>{{ title }}</h2>
+<span><em>{{ page.date | asPostDate }}</em></span>
+<section class="content">
+    {{ content | safe }}
+</section>
+{% endblock %}

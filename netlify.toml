@@ -1,3 +1,3 @@
 [build]
-    command = "hugo"
-    publish = "public"
+    publish = "_site"
+    command = "eleventy"
