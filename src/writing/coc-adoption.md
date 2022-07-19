@@ -34,4 +34,4 @@ The idea that a single event organiser can have omniscience in their community i
 
 You will not see everything that happens, and you will not hear everyones' thoughts or feelings about your event or the interactions they have within it. If you want your community and event to not only survive, but thrive into the future, you need to organise it in a a way that allows you to be more hands-off.
 
-It is a struggling to befriend everyone at your event, but by using a code of conduct, you can use your likely asymmetrical position to let them know that you will protect them if anything happens. And hopefully, one day it can serve as a cornerstone for the foundation of a community you're proud to be part of, and comfortable handing over to someone else.
+It is a struggle to befriend everyone at your event, but by using a code of conduct, you can use your position to let them know that you will protect them if anything happens. Hopefully it can serve as a cornerstone for the foundation of a community you're proud to be part of, and comfortable handing over to someone else.
