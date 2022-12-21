@@ -19,7 +19,7 @@
     },
     "homepage": "https://github.com/ADubhlaoich/adubhlaoich.ie#readme",
     "devDependencies": {
-        "@11ty/eleventy": "^0.3.3",
+        "@11ty/eleventy": "^1.0.2",
         "luxon": "^2.3.2"
     }
 }
