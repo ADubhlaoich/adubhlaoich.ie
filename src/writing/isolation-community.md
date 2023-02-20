@@ -6,7 +6,7 @@ intro: "Like everyone else, I'm fighting a lifelong battle with myself. Since I 
 featured: true
 ---
 
-Like everyone else, I'm fighting a lifelong battle with myself. Since I started using the internet, I've maintained a few different blogs. The intent was always to document things I was learning, but my mental image was of discrete 'projects' related to technology. Instead, I found and still find myself writing about the things I've learned about myself. 
+Like everyone else, I'm fighting a lifelong battle with myself. Since I started using the internet, I've maintained a few different blogs. The intent was always to document things I was learning, but my mental image was of discrete 'projects' related to technology. Instead, I found and still find myself writing about the things I've learned about myself.
 
 Eventually, I was taken by an urge to produce something of objective value, and that compulsion lead me to delete all of my previous blogs. I've never been sentimental; once a letter has been read, its purpose has been fulfilled. I've treated writing the same way - it's a structured medium for me to figure out and examine my thoughts. I've been thinking a lot the past year, but have somehow spent more time talking to others than I ever have, given the circumstances.
 
@@ -22,7 +22,7 @@ I'd never heard the term before, and as I read about it, I realised it was entir
 
 It meant that I developed a sense of self in a vaccuum. My entire world was what I could reach, see and think about. Occasionally, I shared it with others, but I never became attached - because I had no sense of longing for attachment. My parents never hugged me, and if I felt sad or confused, they would try to reason through it or instruct me to deal with it - not comfort me. The only physical sensation I felt from others growing up was violence, because a lone, shy and introverted boy is an easy target.
 
-I've tried very hard to manage the patterns that prevent me from interacting with people the way I'd like to. A friend used the term "socialised" to describe my biggest takeaway from when we were teenagers. I wish I could be offended, but when I see a small puppy, confused yet eager to engage with the world, I can completely relate. Going from touching nobody to being affectionate with friends was my first intrapersonal challenge. 
+I've tried very hard to manage the patterns that prevent me from interacting with people the way I'd like to. A friend used the term "socialised" to describe my biggest takeaway from when we were teenagers. I wish I could be offended, but when I see a small puppy, confused yet eager to engage with the world, I can completely relate. Going from touching nobody to being affectionate with friends was my first intrapersonal challenge.
 
 Nowadays I'm still very intentional about touching others, out of concern - my comfort zone is incredibly flexible compared to some of my friends. I would rather suffer some frustration restraining myself than risk hurting someone else. If nothing else, it's made talking about consent straightforward when it comes to dating.
 

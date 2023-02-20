@@ -14,7 +14,7 @@ Eventually I started to organise classes and social events of my own (Intermitte
 
 Many of these events went well, and some went terribly due to intrapersonal failure. I learned from them, and made a promise to do better in the future. I stepped back, and supported others where I could: as a DJ, as a substitute teacher, as a doorkeeper, as an occasional confidant.
 
-Having reached a comfortable baseline for my movement, I could relax a bit and fall into my natural rhythm of observation. I asked myself what it was that had kept me dancing. I realised, after a while, it was the friends I had made. But something didn't sit right with me. 
+Having reached a comfortable baseline for my movement, I could relax a bit and fall into my natural rhythm of observation. I asked myself what it was that had kept me dancing. I realised, after a while, it was the friends I had made. But something didn't sit right with me.
 
 I missed a lot about circus.
 
@@ -22,13 +22,13 @@ I missed a lot about circus.
 
 When you tell people you do circus performance, or are involved with the community, people usually ask you what circus you're involved with. The assumption is that you work in one of the few big-top circus shows: many are typically family affairs.
 
-The reality is that the circus community is more than just people who perform it professionally. It's the college societies that organise training spaces, workshops and trips for its members. It's individuals informally meeting up on beaches to practice using fire props. 
+The reality is that the circus community is more than just people who perform it professionally. It's the college societies that organise training spaces, workshops and trips for its members. It's individuals informally meeting up on beaches to practice using fire props.
 
 It's groups coming together collectively to perform shows, to run classes, and to plan events as small as 80 people in a hall to 2,000 people at a campsite. What brings all of these people together is a sense of empathy and familiarity. A somewhat laissez-faire approach to getting things done: a lack of drive, but also of animosity.
 
 Everyone is friendly, and there's no real sense of hierarchy. An international performer doing highly technical tricks on a gala show stage will be in the same line as you at the closest burrito bar to the venue. You might end up napping in a pile alongside them the following day. That night, a stranger might regurgitate a shot of tequila into your mouth during a renegade show.
 
-The state of affairs is relaxed, and although there is deference to the full time performers dedicated to their craft, or organisers facilitating the spaces the community congregates in, everyone is essentially treated the same: a well intentioned, infrequently employed vagrant with a heart of gold. 
+The state of affairs is relaxed, and although there is deference to the full time performers dedicated to their craft, or organisers facilitating the spaces the community congregates in, everyone is essentially treated the same: a well intentioned, infrequently employed vagrant with a heart of gold.
 
 You will be welcomed, and welcome in return.
 
@@ -64,7 +64,7 @@ I gave up one evening, sitting in the corner of a pub. The person in control of 
 
 He was correct - There was no community. There was none by his design, scaring people off and refusing any ideas with no demonstrable "value". There was no way to change his mind. I looked forward, and didn't see a future for myself in a group with no human touch, so I walked away.
 
-In the months before COVID-19 forced the world indoors, I had been thinking [a lot about other people](../isolation-community/). I realised I had become more withdrawn after some bad experiences, and had avoided putting the kind of effort I used to put into relationships towards new people. 
+In the months before COVID-19 forced the world indoors, I had been thinking [a lot about other people](../isolation-community/). I realised I had become more withdrawn after some bad experiences, and had avoided putting the kind of effort I used to put into relationships towards new people.
 
 I explained to a close friend that I wanted to do more, but that it was probably time for me to move on. Although dancing could be a good outlet for this desire, I was tired. Few had noticed or agreed with I had seen, and more investment in the scene felt like it would benefit a business - not build the community I imagined and wanted.
 
@@ -84,13 +84,13 @@ It's negative framing, and I decided I wanted to become an optimist. I thought a
 
 ## A Community Effort
 
-"Pobail" is the Gaelige (Irish) word for community. The night was nearly called Pobail Swing instead of Pobail Stomp, but I solicited a lot of feedback and took it into account. I put together a [highly dramatic document](https://docs.google.com/document/d/1nHa2duTW6tl6u2xMoCRQAX7lDpVLF5KBy3UEq-aholo/edit?usp=sharing) asking local and international friends to sanity check my assessment and assumptions of what made a good dance scene. 
+"Pobail" is the Gaelige (Irish) word for community. The night was nearly called Pobail Swing instead of Pobail Stomp, but I solicited a lot of feedback and took it into account. I put together a [highly dramatic document](https://docs.google.com/document/d/1nHa2duTW6tl6u2xMoCRQAX7lDpVLF5KBy3UEq-aholo/edit?usp=sharing) asking local and international friends to sanity check my assessment and assumptions of what made a good dance scene.
 
 This transparent approach is how I've conducted myself in my personal relationships for a long time, and I thought the same mentality might also work well to establish a collaborative process to starting a new dance night. More broadly, I wanted to think beyond just a single social dance - I wanted to set an example for a better scene.
 
 ### The Sword of Damocles
 
-Once upon a time, I had a personal manifesto. I have no clue where it is or what it contained, but I have always maintained an unspoken set of personal standards for conduct. One of these standards is a sense of responsibility that any project I start or become involved with must be able to survive without me. 
+Once upon a time, I had a personal manifesto. I have no clue where it is or what it contained, but I have always maintained an unspoken set of personal standards for conduct. One of these standards is a sense of responsibility that any project I start or become involved with must be able to survive without me.
 
 Like good documentation, I can't consider something 'done' unless it is organised with some kind of succession plan in mind. The people at the top of the project, whether they are willing or not, define the culture of everyone underneath them. Over the years, many organisers have lost trust with their collaborators by refusing to work with them in good faith, or by refusing to acknowledge their roles as leaders and taking ownership of their events.
 
