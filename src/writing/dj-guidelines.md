@@ -33,7 +33,7 @@ Following these three observations, you can then ask yourself questions:
 * Is the space or lack thereof because of interest or stamina?
 
 
-Sometimes there’s tons of space on the floor because the night is dwindling down, and other times it’s because there’s been too many fast songs in a row and people need a break. 
+Sometimes there’s tons of space on the floor because the night is dwindling down, and other times it’s because there’s been too many fast songs in a row and people need a break.
 
 You can’t control the time, and you definitely cannot control anyone elses’ dancing, but you directly influence how the energy of the room ebbs and flows based on how the music gives the space a chance to breathe.
 
@@ -70,7 +70,7 @@ It’s impossible to be a perfect DJ. Even if most of your set is amazing, someo
 
 A large part of reading the room is learning and understanding what you can and cannot control, and asking yourself where you can make improvements. A lot of people find jams exciting, but as a small politeness - you could ask if the person receiving a jam wanted one in the first place.
 
-If the local progressive courses have featured some popular solo routines recently, it’s nice to play the song which will allow the students to show off - but do they all need to be played in a row? 
+If the local progressive courses have featured some popular solo routines recently, it’s nice to play the song which will allow the students to show off - but do they all need to be played in a row?
 
 Lots of songs used for jams tend to be on the longer side; if one is followed by consecutive solo routines, that could create a potential period of 10 to 15 minutes where most of the room isn’t dancing, which might be just enough time to convince someone it’s time for them to pack up and go home.
 

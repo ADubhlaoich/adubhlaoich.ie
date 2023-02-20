@@ -20,9 +20,9 @@ If someone has come to your event, the reason they may be in your country in the
 
 I have previously posited that a code of conduct that cannot be seen might as well not exist; I feel the same way about a code of conduct that is incomprehensible due to a language barrier. Although I have worked very hard to ensure that the code of conduct I use is written in plain language, what I consider plain is relative to my own experience and command of English.
 
-Get someone to localise your code of conduct. It's not my place to talk about it, but localisation and translation are two different (Although closely linked) concerns. 
+Get someone to localise your code of conduct. It's not my place to talk about it, but localisation and translation are two different (Although closely linked) concerns.
 
-By providing your code of conduct in localised languages, it creates one less barrier for someone to understand what your community values, which could be the deciding factor in whether or not they attend in the first place, let alone stick around. This is important to emphasise; your community does not exist in a vaccuum. 
+By providing your code of conduct in localised languages, it creates one less barrier for someone to understand what your community values, which could be the deciding factor in whether or not they attend in the first place, let alone stick around. This is important to emphasise; your community does not exist in a vaccuum.
 
 It is part of a larger society, and we live in a world where many people are marginilised.
 

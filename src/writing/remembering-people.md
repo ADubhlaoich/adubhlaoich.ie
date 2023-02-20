@@ -20,7 +20,7 @@ Seva was the first person in my life to die.
 
 The two of us, as well as my friend Aaron, went through most of Primary School together. Although we parted ways from Secondary School, we still kept in contact. It felt like at least once every two or three weeks I went over to his house; he rarely came to mine, and I attribute that to the fact I didn’t have a computer, though that’s a separate thing to talk about.
 
-At one point, early on during Secondary School, Seva developed cancer. I never asked him what kind it was, and I never asked him how he felt about it. I had a vague understanding of what it meant, but it didn’t seem right to ask, and we were kids - we had more important things to do, like play video games. 
+At one point, early on during Secondary School, Seva developed cancer. I never asked him what kind it was, and I never asked him how he felt about it. I had a vague understanding of what it meant, but it didn’t seem right to ask, and we were kids - we had more important things to do, like play video games.
 
 A few years pass on, and although I still don’t have a good computer, I pick up the game Morrowind, that he’d introduced me to. I’m sitting in my room marvelling over the lengthy manual that comes with the four disk box, and my papa walks into the room to tell me he’d found out from a woman whose son went to the same school that he’d died. Remission didn’t work out.
 

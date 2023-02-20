@@ -34,7 +34,7 @@ Blues](http://www.faircityblues.com/), another local event. I think if someone
 were to trace a family tree for codes of conduct most would share the [Mobtown
 Ballroom's](https://mobtownballroom.com/code) Code of Conduct as an ancestor.
 
-I set out the following requirements for the code:  
+I set out the following requirements for the code:
 
 * It needed to be thorough
 * It needed to be easily understood
@@ -67,7 +67,7 @@ something on the [London Lindy
 Exchange's](https://www.londonlindyexchange.com/) Code of Conduct about online
 harrassment.
 
-As an event organiser I would take steps to ban someone if I knew they were 
+As an event organiser I would take steps to ban someone if I knew they were
 harassing others online, and I think the code is comprehensive enough to cover
 out-of-venue breaches, but it could simply be a case of re-wording something
 further for additional clarity.
