@@ -26,7 +26,7 @@ The reality is that the circus community is more than just people who perform it
 
 It's groups coming together collectively to perform shows, to run classes, and to plan events as small as 80 people in a hall to 2,000 people at a campsite. What brings all of these people together is a sense of empathy and familiarity. A somewhat laissez-faire approach to getting things done: a lack of drive, but also of animosity.
 
-Everyone is friendly, and there's no real sense of hierarchy. An international performer doing highly technical tricks on a gala show stage will be in the same line as you at the closest burrito bar to the venue. You might end up napping in a pile alongside them the following day. That night, a stranger might regurgitate a shot of tequila into your mouth during a renegade show.
+Everyone is friendly, and there's no real sense of hierarchy. An international performer doing highly technical tricks on a gala show stage will be in the same line as you at the closest burrito bar to the venue. You could end up napping in a pile alongside them the following day. That night, a stranger might regurgitate a shot of tequila into your mouth during a renegade show.
 
 The state of affairs is relaxed, and although there is deference to the full time performers dedicated to their craft, or organisers facilitating the spaces the community congregates in, everyone is essentially treated the same: a well intentioned, infrequently employed vagrant with a heart of gold.
 
@@ -72,11 +72,11 @@ My weekly busy night became free. A fortnight later, I visited a friend across t
 
 ## Lockdown Reflection
 
-In the years before COVID-19 bludgeoned international dance communities, we'd dance outdoors (roughly) once a month on a bandstand in a park. When restrictions eased up, people started meeting up and dancing outdoors - on an unofficial basis, of course. This was an ad-hoc effort organised by a handful of people, and through it, we slowly got a picture of who was still around.
+In the summers before COVID-19 bludgeoned international dance communities, once a month (roughly) we'd dance on a bandstand in a park. When restrictions eased up, people started meeting up and dancing outdoors - on an unofficial basis, of course. This was an ad-hoc effort organised by a handful of people, and through it, we slowly got a picture of who was still around.
 
 A lot of people left Dublin during lockdown, if not the country altogether. The scene had a hard reset: there was a group of existing dancers who might not have socialised much in the past, a bunch of migrant dancers trying to make local connections, and a few people trying it for the first time through the limited classes available.
 
-We'd dance once or twice a weekend outdoors, then go for some drinks afterwards. The organisers I originally took classes from decided it was time to throw in the towel, and asked if I was interested in taking over. After many years taking a backseat in the community, I decided I was willing to step back up - and had a vision. It was an opportunity to build something better.
+We'd dance once or twice a weekend outdoors, then go for some drinks afterwards. The organisers I originally took classes from decided [it was time to throw in the towel](https://www.facebook.com/groups/213020498710404/posts/4634837796528630/), and asked if I was interested in taking over. After many years taking a backseat in the community, I decided I was willing to step back up - and had a vision. It was an opportunity to build something better.
 
 I had made a lot of mistakes in the past, and tried to warn people away from doing the same. Much of the time they didn't listen. I realised my mentality for running events was similar to class planning for an inexperienced teacher. Sometimes you're inclined to focus on describing what can go wrong - in an effort to help people, you air all the greivances you have with how you felt you learned something badly.
 
@@ -128,7 +128,7 @@ If you want a community to feel like a full, coherent collective, you should cre
 
 The second is simply by getting people to talk to each other. In our existing documentation, I try to emphasise that running the door is incredibly important because you're likely giving someone their first impression of the community - and learning the word most important to them in any language: their name. Even the bravest person will feel out of place coming into a new activity, and the more people they know, the more comfortable they will be.
 
-I've read of some scenes designating 'dance ambassadors' who are on-duty during a social dance night to ask new or visiting people to dance. I find this approach absolutely stupid, because I perceive it as patronising - and it doesn't mean they'll actually get to know anybody. Chatting on a dance floor is like taking a first date to a movie - it's not intrinsically designed for you to talk in.
+I've read of some scenes designating 'dance ambassadors' who are on-duty during a social dance night to ask new or visiting people to dance. I find this approach absolutely stupid, because I perceive it as patronising - and it doesn't mean they'll actually get to know anybody. Chatting on a dance floor is like taking a first date to a movie: it's not intrinsically designed for you to talk in.
 
 Go to the pub. I'm not joking. At the end of each dance night, I shout at people to go for drinks so they will 1.) Vacate the venue (And help maintain our good relationship with it) and 2.) Have them sit down in a quieter environment where their attention isn't split. The more people go, the better - especially if they're DJs, teachers and organisers.
 
@@ -136,7 +136,7 @@ We dance with people, not levels. As the established people in a community, it's
 
 ## The Future?
 
-Like an unfamiliar song, I'm never sure if I want to end my writing with a dramatic break or just keep moving until there's no music left to drive me. I'm proud of what I've accomplished since Pobail Stomp started - and it's a very alien feeling for me to acknowledge or accept praise for my involvement with anything. I try to find enjoyment in doing things for the sake of doing them, especially out of principle - and have clashed with others multiple times as a result.
+Like an unfamiliar song, I'm never sure if I want to end my writing with a dramatic break or just keep moving until there's no music left to drive me. I'm proud of what I've accomplished since Pobail Stomp started, and it's a very alien feeling for me to acknowledge or accept praise for my involvement with anything. I try to find enjoyment in doing things for the sake of doing them, especially out of principle - and have clashed with others multiple times as a result.
 
 This year so far has been a nebulous one for me, but I feel confident that I am not a singular bus factor in Dublin's scene. We're wrestling with higher order concerns for community building such as a safety committee, which makes me think it's finally maturing past its awkward pubescent stage. I think there's space to do more, but it's important to establish how we want to do so.
 
