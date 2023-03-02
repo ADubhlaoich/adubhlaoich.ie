@@ -1,4 +1,5 @@
 const { DateTime } = require("luxon")
+const rssPlugin = require("@11ty/eleventy-plugin-rss")
 const sortByDisplayOrder = require("./src/utils/sort-by-display-order.js")
 
 module.exports = function(eleventyConfig) {
@@ -19,6 +20,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addFilter('asPostDate', (dateObj) => {
         return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_FULL)
     })
+    eleventyConfig.addPlugin(rssPlugin)
     return {
         markdownTemplateEngine: 'njk',
         dataTemplateEngine: 'njk',
