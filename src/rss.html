@@ -16,7 +16,7 @@ permalink: "/rss.xml"
     <email>{{ site.email }}</email>
   </author>
   {%- for post in collections.writing %}
-  {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
+  {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(site.url) }}{% endset %}
   <entry>
     <title>{{ post.data.title }}</title>
     <link href="{{ absolutePostUrl }}"/>
