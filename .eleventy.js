@@ -3,6 +3,7 @@ const rssPlugin = require("@11ty/eleventy-plugin-rss")
 const sortByDisplayOrder = require("./src/utils/sort-by-display-order.js")
 
 module.exports = function(eleventyConfig) {
+    eleventyConfig.addPassthroughCopy("./src/robots.txt")
     eleventyConfig.addPassthroughCopy("./src/css")
     // eleventyConfig.addWatchTarget("./src/css")
     eleventyConfig.addCollection('projects', collection => {
