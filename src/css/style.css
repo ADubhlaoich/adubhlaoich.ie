@@ -1,5 +1,6 @@
 :root {
-    font-family: "Lora", serif;
+    font-family: system-ui, sans-serif;
+    text-wrap: balance;
 }
 
 h1,
