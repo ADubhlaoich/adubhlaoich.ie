@@ -1,4 +1,14 @@
 :root {
+    --white: #F0F0F0;
+    --black: #231E1E;
+    --grey: #A9A9A9;
+    --dark-purple: #AD6BCB;
+    --light-purple: #CB97DA;
+}
+
+body {
+    background-color: var(--black);
+    color: var(--white);
     font-family: system-ui, sans-serif;
     text-wrap: balance;
 }
@@ -7,6 +17,7 @@ h1,
 h2,
 h3 {
     font-family: "Archivo Black", sans-serif;
+    color: var(--dark-purple);
     text-transform: uppercase;
     line-height: 1.1;
 }

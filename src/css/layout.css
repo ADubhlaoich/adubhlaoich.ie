@@ -54,7 +54,7 @@ footer {
     gap: var(--s1)
 }
 
-.switcher>* {
+.switcher > * {
     flex-grow: 1;
     flex-basis: calc((var(--threshold) - 100%) * 999);
 }

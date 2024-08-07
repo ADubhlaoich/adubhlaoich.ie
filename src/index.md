@@ -8,4 +8,4 @@ Dia duit! I'm Alan Dooley; as Gáelige, Ailín O'Dubhlaoich is ainm dom; hence m
 
 I write about whatever has my interest at a given point in time, but occasionally take prompts from others. Part of why I'm maintaining this website is to push myself to try build in public for all of my interests, technology or otherwise. Right now my main hobby and community is swing dancing, so you'll notice a lot of my writing revolves around it.
 
-If you'd like to learn more about me, you can email me at web(at)adubhlaoi(dot)ch. I'm not particularly active on social media and are unlikely to link any of it as a result, but I use the same username everywhere. Most of what I write is for myself or people I am directly friends with. For everyone else, I'm a fan of this quote:
+If you'd like to learn more about me, you can email me at web＠adubhlaoi․ch. I'm not particularly active on social media and are unlikely to link any of it as a result, but I use the same username everywhere. Most of what I write is for myself or people I am directly friends with. For everyone else, I'm a fan of this quote:
