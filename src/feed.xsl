@@ -9,15 +9,13 @@
       <title>
         RSS Feed | <xsl:value-of select="/atom:feed/atom:title"/>
       </title>
-      <link rel="stylesheet" href="/assets/styles.css"/>
+      <link rel="stylesheet" href="/css/styles.css"/>
     </head>
     <body>
       <p>
-        This is an RSS feed. Visit
-        <a href="https://aboutfeeds.com">About Feeds</a>
-        to learn more and get started. It’s free.
+        This is the RSS feed for <a href="https://www.adubhlaoich.ie/">adubhlaoich.ie</a>.
       </p>
-      <h1>Recent blog posts</h1>
+      <h2>Recent website entries</h2>
       <xsl:for-each select="/atom:feed/atom:entry">
         <a>
           <xsl:attribute name="href">
@@ -26,7 +24,7 @@
           <xsl:value-of select="atom:title"/>
         </a>
         Last updated:
-        <xsl:value-of select="substring(atom:updated, 0, 11)" />
+        <xsl:value-of select="atom:updated, 0, 11)" />
       </xsl:for-each>
     </body>
     </html>

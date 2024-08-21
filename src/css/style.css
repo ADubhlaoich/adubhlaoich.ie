@@ -4,18 +4,21 @@
     --grey: #A9A9A9;
     --dark-purple: #AD6BCB;
     --light-purple: #CB97DA;
+    --base-typeface: system-ui, sans-serif;
+    --heading-typeface: system-ui, sans-serif;
 }
 
 body {
     background-color: var(--black);
     color: var(--white);
-    font-family: system-ui, sans-serif;
+    font-family: var(--base-typeface);
     text-wrap: balance;
 }
 
 h1,
 h2,
 h3 {
+    font-family: var(--heading-typeface);
     text-transform: uppercase;
     line-height: 1.1;
 }
