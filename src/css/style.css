@@ -16,10 +16,16 @@ body {
 h1,
 h2,
 h3 {
-    font-family: "Archivo Black", sans-serif;
-    color: var(--dark-purple);
     text-transform: uppercase;
     line-height: 1.1;
+}
+
+h1, h2, h3, a {
+    color: var(--dark-purple);
+}
+
+a:visited {
+    color: var(--light-purple);
 }
 
 ol {

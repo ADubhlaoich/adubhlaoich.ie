@@ -34,10 +34,6 @@ footer {
     outline-offset: -0.125rem;
 }
 
-.box * {
-    color: inherit;
-}
-
 .center {
     box-sizing: content-box;
     max-inline-size: var(--measure);
