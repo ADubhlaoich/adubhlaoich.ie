@@ -16,7 +16,7 @@ The reason I didn't and don't direct message you isn't because I'm shy. It's bec
 
 And if a future archaeologist is trying to build a mosaic to solve a problem of their own, I want to save them time with my own Sisyphean struggle as example.
 
-Have you ever actually watched a recording of a meeting? Most of them could have been e-mails. An e-mail would have forced you to think about what important information there was to share. You were the one who suggested I join this meeting. I am the one who suffers you trying to explain microscopic details of a complex picture when my question was just "What is a picture of?".
+Have you ever actually watched a recording of a meeting? Most of them could have been e-mails. An e-mail would have forced you to think about what important information there was to share. You were the one who suggested I join this meeting. I am the one who suffers you trying to explain microscopic details of a complex picture when my question was just "What is this a picture of?".
 
 Every permutation of a group direct message you have brought me into is another dead end in the house of mirrors I am attempting to escape. I try to remember the relevant combinatorics to figure out just how many groups DMs you could force me into, and I realise I don't need to figure it out. I can just count them when you've dragged me to that point.
 
