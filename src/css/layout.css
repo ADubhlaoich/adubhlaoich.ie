@@ -34,10 +34,6 @@ footer {
     outline-offset: -0.125rem;
 }
 
-.box * {
-    color: inherit;
-}
-
 .center {
     box-sizing: content-box;
     max-inline-size: var(--measure);
@@ -54,7 +50,7 @@ footer {
     gap: var(--s1)
 }
 
-.switcher>* {
+.switcher > * {
     flex-grow: 1;
     flex-basis: calc((var(--threshold) - 100%) * 999);
 }

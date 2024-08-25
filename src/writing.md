@@ -6,6 +6,8 @@ pagination:
     size: 10
 ---
 
-The following list of titles are links to the various pieces I have written and published on this website thus far. Most of them are memoirs or perspectives on how to run events; the actual "technical" content I will have likely mirrored on [dev.to](https://dev.to/adubhlaoich).
+The following list of titles are links to things I have written and published on my website.
 
-If there's something you'd like to read about, don't hesitate to reach out to me with a suggestion.
+I don't write to a schedule, nor do I adhere to a specific style guide. I occasionally update older pieces if I notice grievous errors or broken links, but I decided I wanted to keep the content as-is since it reflects what my experience and feelings were at the time.
+
+If there's something specific you'd like to read from me, reach out.
