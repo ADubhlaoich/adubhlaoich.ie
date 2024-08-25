@@ -9,7 +9,7 @@
       <title>
         RSS Feed | <xsl:value-of select="/atom:feed/atom:title"/>
       </title>
-      <link rel="stylesheet" href="/css/styles.css"/>
+      <link rel="stylesheet" href="/css/style.css"/>
     </head>
     <body>
       <p>
