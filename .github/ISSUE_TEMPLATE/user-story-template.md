@@ -8,14 +8,11 @@ assignees: ADubhlaoich
 ---
 
 ## Overview
-**As a** , **I want** , *so that* .
+**As a** , **I want** , **so that** .
 
 ## Description
 
 ## Acceptance criteria
-```[tasklist]
--
--
--
-```
+- [ ] Item 1
+- [ ] Item 2
 ## Additional information
