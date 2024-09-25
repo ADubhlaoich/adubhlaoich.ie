@@ -1,6 +1,6 @@
 ---
 title: "A pragmatic guide to DJing for swing dance events"
-date: 2024-09-02
+date: 2024-09-25
 topics: ["dancing"]
 ---
 
@@ -74,21 +74,75 @@ Here's what I usually bring:
 - My USB [digital to audio converter (DAC)](https://www.audioquest.com/products/dragonfly-red)
 - A 3.5mm to 3.5mm audio jack
 
-My headphone cables are also 3.5mm to 3.5mm: the extra one listed is in case the cable provided to me by the organised or venue is banjaxed. If I expect the situation to be dire, I might also bring an entire speaker with me - but that's a rarity.
+My headphone cables are also 3.5mm to 3.5mm: the extra one listed is in case the cable provided to me by the organiser or venue is banjaxed. If I expect the situation to be dire, I might also bring an entire speaker with me - but that's a rarity.
 
 The USB DAC is barely used for its full potential: I use it as a separate audio sink so that I can play and preview music on a single device. I line into the speaker directly with my laptop, and preview with my headphones and the DAC.
 
 It's set-up this way so that if someone bumps the DAC, I lose previewing capability - instead of the venue losing music. Similarly, wiring in my headphones means I don't have to worry about any bluetooth device sleep shenanigans, which I saw happen to a friend during a public gig.
 
-I open my music player, do any device configuration necessary, and disable any music auto play options, and the ability to play a song while an existing one is playing. I only want music playing exactly when I decide it should be, and no other time.
+I open my music player, do any device configuration necessary, disable any music auto play options, and the ability to play a song while an existing one is playing. I only want music playing exactly when I decide it should be, and no other time.
 
 We're almost ready to roll. Make sure you have water, and swap into your dance shoes to give yourself the option to get up.
 
 ## Planning your set
 
-I don't actually plan my sets, but there are things I often have to consider.
+A lot of what I want to say about this is covered by the aforementioned [Swing DJ Guidelines](../dj-guidelines), so I'll try to tread different ground.
 
-- Are there performances? The organiser will _probably_ have told me in advance
-- Am I expected to run a jam? If it's for someone, I will not facilitate it without their explicit consent
+I don't really plan my sets in advance, but there are things I often have to consider.
+
 - Is there a band, and when will they arrive? Getting a quick photograph of their sets is useful
+- Am I expected to run a jam? If it's for someone, I will not facilitate it without their explicit consent
+- Are there performances? The organiser will _probably_ have told me in advance
+- Are there competitions of any kind? What format are they, and what level are the participants?
 
+All four of these concerns are explicitly telegraphed activities as part of a night, with their own precise constraints. This is why it's really important to know your music - none of them should be too much of a stretch to facilitate.
+
+Your aim as the DJ is usually to keep as many people on the floor at all times as possible, so what you spend a lot of time doing is managing energy. There's all sorts of basic strategy to oscillate between tempos, but I've never really adhered to it. Instead, I try to ensure the night as a whole feels well-rounded.
+
+Sometimes, this means setting an expectation on what the floor and ceiling for speed will be. If I'm catering for Lindy Hop and Blues, it'll err on the slower side. Balboa & Collegiate Shag will be on the fast end, in contrast. Most sets have been for general "swing dance" events, though, so I stick near the middle and deviate for contrast.
+
+### Early sets
+
+If you're DJing an early set, you might be following a class, and you probably have the least full dancefloor. This is a great opportunity to figure out the acoustics for a room, and get a sense of what volume will fill it while it's empty.
+
+As more bodies enter the room, you can afford to go a bit higher.
+
+Most of the people on the floor will have been those who were in early for the class, or to talk to people. As a result, a lack of dancing is due to higher priorities, not a dislike of your music. Relax, get some dances in, and stick to music that feels approachable to beginners. Ideally, you should be at the desk 15 minutes before any given set: in this case, you might have heard a song or two used during a taster class.
+
+Familiar music is less intimidating than new music for a beginner, and it's crucially important that you keep the people who just started dancing on the floor as long as possible. You don't have to cater to the experienced dancers, because most of them probably aren't around - and they are already invested in the hobby to stick around most of the night.
+
+### Middle sets
+
+As more people arrive, you can bring the energy up more. This is when I might decide to play a few songs I know will get people reliably excited - they've just came in, they've finished their drinks, they've finished some self-imposed expectations of community service by dancing with strangers.
+
+This is when I tend to pay the most attention to the floor. I'm keeping an eye on how many people are dancing, but I'm also keeping an eye on how many people are not. If a band has exclusively been playing fast and long songs, I won't risk anything weird, as people might have been waiting for the band to leave before they would start dancing again.
+
+During a typical night I'm only a song or two ahead of myself when planning a set, and I try to think of each song as part of a set of three. In Dublin there's no cultural expectation to dance more than one song in a row with anyone, but it's still quite common to dance at least two, so the pacing within an ephemeral partnership is important.
+
+The later a night goes on, the more you can afford to play faster or weirder songs to account for the fact most of the people sticking around will be enthusiastic or experienced. This isn't an excuse to stop catering for as many people as possible, however, and where I find many DJs end up killing a room.
+
+As a band set ends, or immediately after announcements (They tend to be paired together for pacing), a DJ will decide to play music for a solo jazz stroll like the Shim Sham or the Big Apple. Immediately after that, they might try to facilitate a jam. If there was a performance of some kind, or the last band song was too much for most people to dance to, this could represent up to 20 minutes of standing around for some dancers.
+
+If you've already been dancing for an hour or two, feeling forced to sit out nearly half an hour of dancing might be what pushes you to end your night early. An emptier dancefloor is better for some people, but worse for the atmosphere and momentum of a night.
+
+Understand the power you have as the DJ.
+
+### Final sets
+
+By the end of the night, things have started to wind down. This is when I might start to play some Blues songs, but my aim is to ensure that everyone still ends the event on a high note.
+
+Knowing the true, actual end of the night is important: some events will go as long as the venue will let them, other events end to facilitate time for class or other activities the following day.
+
+There's a lot of songs I will only end up playing at the end of the night, and I usually end a final set with one of my favourite songs. If there's any time of the night you can cater for specific people, this is it.
+
+The right song can give a lot of people a second wind so that they cross the finish line eager instead of lethargic. I have made a habit of announcing when there are only three songs left and the final song, which gives people plenty of warning to get up while they still can.
+
+## Concluding thoughts
+
+I believe it's easier to point out wrong ways to DJ than right ways to, because music ultimately comes down to taste. Like good design, the impact of a great DJ is often invisible. I've had the privilege of applause for many of my sets, though I dislike having attention drawn to me.
+
+If you've wanted to try DJing, there's no best time to start. My first set bombed horrendously, and I started out buying my own music - enough for one hour. This meant I couldn't make informed decisions about what to play, and instead had to contend with when to play it.
+
+I would recommend slightly more preparation than I had at the time, which is a low bar to trip over.
+
+You'll find it gets easier the more you do it, much like dancing itself. As time goes on, you'll eventually develop your own style of managing things and distinct voice for your sets.
