@@ -133,7 +133,7 @@ By the end of the night, things have started to wind down. This is when I might 
 
 Knowing the true, actual end of the night is important: some events will go as long as the venue will let them, other events end to facilitate time for class or other activities the following day.
 
-There's a lot of songs I will only end up playing at the end of the night, and I usually end a final set with one of my favourite songs. If there's any time of the night you can cater for specific people, this is it.
+There's a lot of songs I accidentally only play near the end of the night, and I usually end a final set with one of my favourite songs. If there's any time of the night you can cater for specific people, this is it.
 
 The right song can give a lot of people a second wind so that they cross the finish line eager instead of lethargic. I have made a habit of announcing when there are only three songs left and the final song, which gives people plenty of warning to get up while they still can.
 
