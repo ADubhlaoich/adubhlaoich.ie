@@ -4,7 +4,7 @@ date: 2024-09-25
 topics: ["dancing"]
 ---
 
-This is a sequel of sorts to an old piece of mine, [Swing DJ Guidelines](../dj-guidelines). I still stand by it: it covers what I consider the spirit of good DJing. My intention with this piece is to offer some more practical advice and examples. I have never claimed to be a particularly good DJ, but what I share is what has worked well everywhere I've had the chance to work. 
+This is a sequel of sorts to an old piece of mine, [Swing DJ Guidelines](../dj-guidelines). I still stand by it: it covers what I consider the spirit of good DJing. My intention with this piece is to offer some more practical advice and examples. I have never claimed to be a particularly good DJ, but what I share is what has worked well everywhere I've had the chance to work.
 
 It's been a holistic effort for me with many lessons learned through failure. My worst set was probably my very first one: there's been some other times technical problems have bludgeoned me, but there's ways to mitigate that, too.
 
