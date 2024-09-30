@@ -8,5 +8,8 @@
 {{ content | safe }}
 <article class="content">
     {% include "partials/writing-list.html" %}
+    {% if not tag %}
+      {% include "partials/pagination.html" %}
+    {% endif %}
 </article>
 {% endblock %}

@@ -4,6 +4,9 @@ layout: 'layouts/writing.html'
 pagination:
     data: collections.writing
     size: 10
+permalink: writing{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber }}{% endif %}/index.html
+paginationPrevText: 'Newer writing'
+paginationNextText: 'Older writing'
 ---
 
 The following list of titles are links to things I have written and published on my website.
