@@ -44,3 +44,13 @@ nav ul {
     text-align: center;
     text-transform: uppercase;
 }
+
+.quote {
+    border: 0.2rem solid var(--grey);
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.quote figcaption {
+    padding: 0.5rem;
+}
