@@ -62,7 +62,7 @@ I do a lot of dancing, and I've put a lot of time into prop manipulation as part
 
 I *think* the three I chose were "tired, unfettered and optimistic". I wasn't even choosing words for the stage: they're just what I think of myself.
 
-Whenever we're in front of others, whether we choose to care or not, how we carry ourselves and are perceived will affect how people react towards us. One set of random ideas I had for a bit involves the fact I spend more time around scantily clad women than most straight guys due to my invovlement with the burlesque community.
+Whenever we're in front of others, whether we choose to care or not, how we carry ourselves and are perceived will affect how people react towards us. One set of random ideas I had for a bit involves the fact I spend more time around scantily clad women than most straight guys due to my involvement with the burlesque community.
 
 I have a few odd jokes here and there in my working memory I thought I could probably pull together into a set:
 
