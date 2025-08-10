@@ -1,7 +1,7 @@
 ---
 title: "You Should Adopt a Code of Conduct"
 date: 2022-07-17
-topics: ["Dancing, Events"]
+topics: ["dancing, events"]
 ---
 
 I've been involved with organising events for about a decade now, and recently I have focused solely on organising dance events. Ages ago I wrote [a postmortem for a circus event](../dublin-circus-postmorterm) and I think I'll do the same for dancing by the end of the year; they're useful reflections to identify things to improve.

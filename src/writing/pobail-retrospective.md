@@ -1,7 +1,7 @@
 ---
 title: "Pobail Stomp: Year One Retrospective"
 date: 2023-02-15
-topics: ["Dance", "Events"]
+topics: ["dance", "events"]
 ---
 
 My opinions may not be shared with any of the people I have worked with in the past or those I work with currently. It's important for me to state this, as some of the things I say may cause offense or be interpreted unfavourably.
